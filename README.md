@@ -1,2 +1,2 @@
 # Just a license
-License
+Is a more free license EXO for users.
