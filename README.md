@@ -1,2 +1,2 @@
 # Just a license
-License
+MAXIMUM FREE FOR USERS!
